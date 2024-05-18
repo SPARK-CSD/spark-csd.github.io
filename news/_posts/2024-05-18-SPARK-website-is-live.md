@@ -1,9 +1,6 @@
 ---
 layout: post
 title: The SPARK website is live
-image: 
-  path: 
-description: 
 sitemap: false
 ---
 
