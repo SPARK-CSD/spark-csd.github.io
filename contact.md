@@ -26,7 +26,7 @@ You can contact us via one of the options below, whatever works best for you.
 
 **`Email`**
 
-You can reach us via `Email`: `spark-csd@northwestern.edu`.
+You can reach us via `Email`: `spark-csd at northwestern dot edu`.
 
 **`Open Office and hack hours`**
 
