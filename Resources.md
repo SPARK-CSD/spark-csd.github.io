@@ -52,6 +52,7 @@ Regarding all of the above-mentioned aspects, `SPARK` is providing regular `trai
 You can find the current list of `modules` below:
 
 
+
 If you have a question concerning the materials, please consult the [contact page]() on how to best reach us or use the respective `GitHub` repository or the `hypothes.is` feature on the `module` website.
 
 ## Community building and collaboration
