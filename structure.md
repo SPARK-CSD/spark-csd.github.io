@@ -10,6 +10,8 @@ redirect_from:
 
 # Structure
 
+On this page, you will find further information concerning `SPARK`s structure, both within the [CSD department](https://communication.northwestern.edu/academics/communication-sciences-and-disorders/) and across campus.
+
 ## Within the CSD department
 
 ![SPARK structure](assets/img/SPARK_structure.png){:.tail width="1920" height="1260" loading="lazy"}
