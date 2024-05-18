@@ -19,6 +19,4 @@ As you can see above, there are two important aspects concerning SPARK's structu
 
 - it consists of a Core Team (currently Peer Herholz, but new members will join soon) and Working Groups focusing on one of three aspects (the call for leads and co-leads will go out soon)
 
-The rationale behind this structure is to build a department-wide, all-encompassing initiative and center/hub that is 
-
-sustainable and provides a high level of agency for everyone interested.
+The rationale behind this structure is to build a department-wide, all-encompassing initiative and center/hub that is sustainable and provides a high level of agency for everyone interested.
