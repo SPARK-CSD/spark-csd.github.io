@@ -11,7 +11,8 @@ redirect_from:
 
 # About
 
-<!--author-->
+Statistics and Data Science Partnership for Applied Research in Communication Sciences and Disorders.
+
 
 ## Hydejack
 
