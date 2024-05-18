@@ -43,7 +43,7 @@ One of `SPARK`'s main endeavors is to provide consulting and direct support for 
 
 This concerns active, ie currently running projects, as well as the preparation and submission of grants.
 
-If you would like to talk to us about any of these topics, please consult the [contact page]() on how to best reach us.
+If you would like to talk to us about any of these topics, please consult the [contact page](https://spark-csd.github.io/contact/) on how to best reach us.
 
 ## Training and education
 
@@ -53,7 +53,7 @@ You can find the current list of `modules` below:
 
 
 
-If you have a question concerning the materials, please consult the [contact page]() on how to best reach us or use the respective `GitHub` repository or the `hypothes.is` feature on the `module` website.
+If you have a question concerning the materials, please consult the [contact page](https://spark-csd.github.io/contact/) on how to best reach us or use the respective `GitHub` repository or the `hypothes.is` feature on the `module` website.
 
 ## Community building and collaboration
 
@@ -62,4 +62,4 @@ If you have a question concerning the materials, please consult the [contact pag
 If that's something that's interesting to you, please have a look at our corresponding efforts below:
 
 
-If you would like to join for any of these, please feel free to just stop by or consult the [contact page]() on how to best reach us.
+If you would like to join for any of these, please feel free to just stop by or consult the [contact page](https://spark-csd.github.io/contact/) on how to best reach us.
