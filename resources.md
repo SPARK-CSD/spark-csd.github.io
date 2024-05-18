@@ -18,24 +18,24 @@ You can find further information regarding the different types below.
 
 One of `SPARK`'s main endeavors is to provide consulting and direct support for researchers across all levels concerning everything related to 
 
-- `data science`, including:
+- **`data science`**, including:
   - `data standardization` and `management`
   - `preprocessing` and `analyses`
   - `visualization` and `evaluation`
   - `analysis workflows`
   
-- `AI`, including:
+- **`AI`**, including:
   - `development` of new and `application` of existing `models`
   - `fine-tuning` of existing `models`
   - `model evaluation`
 
-- `computational work`, including:
+- **`computational work`**, including:
   - `programming` in `bash`, `python` and `R` (other languages such as `HTML` or `Matlab` are also supported)
   - `version control` for `code` and `data`
   - `computational environments`, e.g. `virtualization` and `HPC`
   - `software development` and `continuous integration`
 
-- `open and reproducible science`, including:
+- **`open and reproducible science`**, including:
   - `data` and `code sharing`
   - `data management plans`
   - open `repositories`
