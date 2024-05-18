@@ -24,9 +24,9 @@ As outlined in the [Structure page](https://spark-csd.github.io/structure/), `SP
     </div>
     <h3 style="margin-top: 4px; margin-bottom: 5px; font-size: 18px;">Peer Herholz</h3>
     <p style="font-size: 14px; margin-bottom: 2px;">
-      <a href="mailto:peer.herholz@northwestern.edu" style="margin-right: 10px;"><i class="fas fa-envelope"></i></a>
-      <a href="https://peerherholz.github.io/" style="margin-right: 10px;"><i class="fas fa-link"></i></a>
-      <a href="https://github.com/peerherholz"><i class="fab fa-github"></i></a>
+      <a href="mailto:peer.herholz@northwestern.edu" style="font-size: 20px; margin-right: 10px;"><i class="fas fa-envelope"></i></a>
+      <a href="https://peerherholz.github.io/" style="font-size: 20px; margin-right: 10px;"><i class="fas fa-link"></i></a>
+      <a href="https://github.com/peerherholz" style="font-size: 20px;><i class="fab fa-github"></i></a>
     </p>
   </div>
 </div>
