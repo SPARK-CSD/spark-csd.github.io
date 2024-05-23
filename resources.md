@@ -63,3 +63,12 @@ If that's something that's interesting to you, please have a look at our corresp
 
 
 If you would like to join for any of these, please feel free to just stop by or consult the [contact page](https://spark-csd.github.io/contact/) on how to best reach us.
+
+## Repositories and Platforms
+
+Given our mission, we aim to make as much of our work publicly available, no matter of code, datasets, etc. . To make this outcomes as `FAIR` as possible we follow existing standards and best practices, as well as utilize a wide range of community-supported platforms. Please make sure to also check out our presence there.
+
+[![GitHub](https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png)](https://github.com/SPARK-CSD)
+[![OSF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOd0VojaU-cu_3s87j42jc5WCwA81Yqz1oq5rB7wGKyg&s)](https://osf.io/5uh7j/)
+[![Figshare](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Figshare_logo.svg/2560px-Figshare_logo.svg.png)](https://figshare.com/authors/SPARK_CSD/18408687)
+[![Zotero](https://sp.library.miami.edu/assets/users/_jsobczak/fe71ecd6153972926229338.jpg)](https://www.zotero.org/spark_csd)
