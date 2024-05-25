@@ -54,6 +54,8 @@ menu:
     url:               /structure/
   - title:             Team
     url:               /team/    
+  - title:             Join
+    url:               /join/        
   - title:             Resources
     url:               /resources/
   - title:             Contact
