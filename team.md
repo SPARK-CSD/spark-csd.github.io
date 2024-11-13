@@ -21,7 +21,7 @@ As outlined in the [Structure page](https://spark-csd.github.io/structure/), `SP
     <div style="line-height: 0;">
       <img src="https://ai.northwestern.edu/images/herholz-peer.jpg" alt="Peer_pic" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     </div>
-    <h3 style="margin-top: 4px; margin-bottom: 5px; font-size: 18px;">Peer Herholz</h3>
+    <h3 style="margin-top: 4px; margin-bottom: 5px; font-size: 18px;">Hannah Ma</h3>
     <p style="font-size: 14px; margin-bottom: 2px;">
       <a href="mailto:peer.herholz@northwestern.edu" style="font-size: 20px; margin-right: 10px;"><i class="fas fa-envelope"></i></a>
       <a href="https://peerherholz.github.io/" style="font-size: 20px; margin-right: 10px;"><i class="fas fa-link"></i></a>
